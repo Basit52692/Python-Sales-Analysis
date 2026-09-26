@@ -1,0 +1,16 @@
+Python Retail Sales Analysis — Verified Results
+
+Rows: 10,000
+Total sales: 10,033,715.95 source units
+Total profit: 1,711,180.34 source units
+Overall margin: 17.05%
+Units sold: 54,823
+Average order value: 1,003.37 source units
+Negative-profit orders: 79
+
+2022 YoY sales growth: 3.36%
+Top category by sales: Furniture
+Top region by sales: East
+Highest region margin: West
+0% discount margin: 20.35%
+30% discount margin: 13.99%

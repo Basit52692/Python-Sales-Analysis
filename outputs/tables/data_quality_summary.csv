@@ -1,0 +1,9 @@
+check,value
+Rows,10000
+Duplicate rows,0
+Missing cells,0
+Ship before order,0
+Negative-profit orders,79
+Unique order IDs,10000
+Unique customer IDs,10000
+Unique product IDs,10000
